@@ -19,7 +19,7 @@ Estas sólo pueden tratar sobre Tecnologías Open Source o Google y deben ser pr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3. Computer Science**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4. Smart Cities**<br/>
 
-
+<br/>
 ## La Coordinación
 Este capítulo es coordinado por estos entusiastas digitales:
 
