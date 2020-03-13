@@ -12,12 +12,13 @@ Estas sólo pueden tratar sobre Tecnologías Open Source o Google y deben ser pr
 1. UX & Product Management
 1. Artes Digitales
 1. Computer Sciencel
-  1. Smart Cities
+1. Smart Cities
 
 ## El Equipo
 Este capítulo es coordinado por estos entusiastas digitales:
 
--|-|-
+  |   |   
+- | - | - 
 ![]() | ![]() | ![Yoshi Ortiz]()
 Título Vacante | Título Vacante | **Yoshihiro Ortiz**
 Coordinador del Capítulo | Infrastructure Developer | Community Manager
