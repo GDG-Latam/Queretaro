@@ -19,7 +19,8 @@ Estas sólo pueden tratar sobre Tecnologías Open Source o Google y deben ser pr
 ## El Equipo
 Este capítulo es coordinado por estos entusiastas digitales:
 
-|  :-:             | :-:                        | :-:                 |
+| Community Lead | Infrastructure Developer | Community Manager |
+| :-:            | :-:                      | :-:               |
 | ![]() | ![]() | ![Yoshi Ortiz]() |
 | Título Vacante | Título Vacante | **Yoshihiro Ortiz** |
 
