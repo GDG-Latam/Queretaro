@@ -4,6 +4,7 @@ GDG Querétaro es un capítulo oficial de [Google Dev. Communities](https://deve
 Las actividades de dichos programas pueden ser:
 
 E. **Assemblies**
+
 D. **Convivencias**
 C. **Trainings**
 B. **Sprints**
