@@ -25,5 +25,5 @@ Este capítulo es coordinado por estos entusiastas digitales:
 
 | Community Lead | Infrastructure Developer | Community Manager |
 | :-:            | :-:                      | :-:               |
-| ![]() | ![]() | ![Yoshi Ortiz]() |
+| ![]() | ![]() | <p align="center"><img width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C5103AQF2gc0anZuscg/profile-displayphoto-shrink_200_200/0?e=1589414400&v=beta&t=Y1wOQdsrvf3SoEMsse2Br4NS5Yau-ICz_8aSPr8ttdw"></p> |
 | Título Vacante | Título Vacante | Yoshihiro Ortiz |
