@@ -14,10 +14,10 @@ Las actividades de dichos programas pueden ser:
 
 Estas sólo pueden tratar sobre Tecnologías Open Source o Google y deben ser programadas por alguno de los 4 círculos de estudio activos en la ciudad, los cuales se especializan en:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**UX & Product Management**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Artes Digitales**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Computer Science**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Smart Cities**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. UX & Product Management**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2. Artes Digitales**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3. Computer Science**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4. Smart Cities**<br/>
 
 
 ## La Coordinación
