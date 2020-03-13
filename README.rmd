@@ -1,4 +1,7 @@
 ---
+title: "GDG Queretaro intro"
+author: "Yoshi Ortiz"
+date: "March 13, 2020"
 output: rmarkdown::github_document
 ---
 
