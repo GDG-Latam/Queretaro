@@ -25,5 +25,5 @@ Este capítulo es coordinado por estos entusiastas digitales:
 
 | Community Lead | Infrastructure Developer | Community Manager |
 | :-:            | :-:                      | :-:               |
-| ![]() | ![]() | <img width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C5103AQF2gc0anZuscg/profile-displayphoto-shrink_200_200/0?e=1589414400&v=beta&t=Y1wOQdsrvf3SoEMsse2Br4NS5Yau-ICz_8aSPr8ttdw"> |
+| ![]() | ![]() | <img width="100" height="100" src="https://avatars0.githubusercontent.com/u/8152555?s=460&u=38d9a76463910867511544af982304b69f217a4e&v=4"> |
 | *Título Vacante* | *Título Vacante* | Yoshihiro Ortiz |
