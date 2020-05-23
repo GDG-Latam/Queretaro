@@ -1,5 +1,6 @@
 <p align="center">
-<img width="200" height="200" src="https://avatars3.githubusercontent.com/u/62128654?s=200&v=4">
+<img width="600" src="https://raw.githubusercontent.com/Open-GDG/Queretaro/master/brand/Rectangle.png">
+<h1 align="center">GDG Querétaro</h1>
 </p>
 
 GDG Querétaro es un capítulo oficial de [Google Dev. Communities](https://developers.google.com/community) autorizado por [Alejandro Borba](https://www.linkedin.com/in/ale-borba/) desde 2018 a [Yoshihiro Ortiz](), quien es el Coordinador en Turno. Esta plataforma existe para que talento de toda la ciudad pueda encontrar un punto de encuentro local donde sean motivados a crear nuevas tecnologías desde Querétaro sin juzgar el contexto del que provenga, por lo que para lograr esto mes a mes organizamos programas formativos de fácil acceso a público en general sin ánimos de lucro.
