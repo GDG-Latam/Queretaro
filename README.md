@@ -48,22 +48,10 @@ Algunos beneficios de los que miembros del capítulo pueden disfrutar incluyen:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💎 &nbsp; Swag
 
 
-# 3. Roles de participación
-Las actividades de estos programas pueden ser:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**E. Assemblies**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D. Convivencias**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C. Trainings**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B. Sprints**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A. Arenas**<br/>
-
-¿Te gustaría contrubuir?
-[Propón una actividad >](mailto:qro-organizers@googlegroups.com)
-
-## 3.1 Colaboraciones, Títulos y Méritos
+# 3 Colaboraciones, Títulos y Méritos
 Los únicos títulos que GDG puede otorgar a cualquiera de sus participantes son:
 
-| Rol                                 | Méritos |
+| Título                              | Méritos |
 | :-:                                 | :- |
 | **Miembro / Entusiasta**  | Este título lo obtiene cada participante de alguna actividad organizada por el capítulo por el hecho de asistir a esta. |
 | **Facilitador Invitado / Activista**            | Este título obtiene aquel miembro que ofrece dictar alguna charla u actividad GDG sin ánimos de adquirir resposabilidades como organizador del capítulo. |
