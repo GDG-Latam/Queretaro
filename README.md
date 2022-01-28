@@ -48,7 +48,7 @@ Algunos beneficios de los que miembros del capítulo pueden disfrutar incluyen:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💎 &nbsp; Swag
 
 
-# 3 Colaboraciones, Títulos y Méritos
+# 3. Colaboraciones, Títulos y Méritos
 Los únicos títulos que GDG puede otorgar a cualquiera de sus participantes son:
 
 | Título                              | Méritos |
