@@ -68,7 +68,7 @@ A pesar de que el título Google Developers Expert no puede ser otorgado directa
 * Evidenciar **talento profesional en la tecnología** que busca certificar
 * Ser **afirmado por talento interno de Google** como experto de confianza
 
-## 3.3 Importante
+## 3.3 Violaciones de colaboración
 La plataforma GDG no debe ser confundida con Google LLC (la compañía).
 **NADIE TIENE PERMITIDO afirmar que está asociado a Google LLC o Google Developers** como proveedor de talento o servicios por el hecho de:
 1. Pertenecer a este o cualquier otro capítulo GDG
