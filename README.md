@@ -31,7 +31,7 @@ Esta plataforma existe con la intención que talento de toda la ciudad pueda con
 Nuestras actividades solo pueden tratar sobre Tecnologías **Open Source** o **Google** y solo pueden ser programadas por alguno de los 4 círculos de estudio activos en la ciudad, los cuales se especializan en:
 
 <p align="center">
-<img width="600" src="https://raw.githubusercontent.com/Open-GDG/Queretaro/master/arts/diagrams/Circles.png">
+<img width="600" src="https://raw.githubusercontent.com/Open-GDG/Queretaro/master/arts/Circles.png">
 </p>
 
 # 2. Beneficios
